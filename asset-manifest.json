@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Music-App.in/static/css/main.f855e6bc.css",
-    "main.js": "/Music-App.in/static/js/main.23180213.js",
-    "index.html": "/Music-App.in/index.html",
-    "main.f855e6bc.css.map": "/Music-App.in/static/css/main.f855e6bc.css.map",
-    "main.23180213.js.map": "/Music-App.in/static/js/main.23180213.js.map"
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.5a4e118c.js",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.5a4e118c.js.map": "/static/js/main.5a4e118c.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.23180213.js"
+    "static/js/main.5a4e118c.js"
   ]
 }
